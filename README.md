@@ -21,14 +21,14 @@ We design architectures that align intelligence with **sovereignty, ethics, and 
 
 ---
 
-## 📂 Key Repositories
-- [`sai-charter`](https://github.com/cynkronai/sai-charter) – Neuro-ethics + consent-driven AI framework.  
-- [`siddhiq-avatar`](https://github.com/cynkronai/siddhiq-avatar) – DNA-aligned AI avatar architecture.  
-- [`throniq-engine`](https://github.com/cynkronai/throniq-engine) – Archetype Gate and Codex logic.  
-- [`vectrix-decision-sim`](https://github.com/cynkronai/vectrix-decision-sim) – Non-linear timeline simulation.  
-- [`mindalignvr`](https://github.com/cynkronai/mindalignvr) – Mixed reality trauma resolution.  
-- [`smartmri-protocol`](https://github.com/cynkronai/smartmri-protocol) – XR neuromodulation protocol.  
-- [`phoenixriders-codex`](https://github.com/cynkronai/phoenixriders-codex) – Gamified recovery framework.  
+## 🗝️ Key Repositories
+- [cynkronai-learn](https://github.com/cynkronai/cynkronai-learn) – Core learning modules for SAI fundamentals  
+- [siddhiq-avatar](https://github.com/cynkronai/siddhiq-avatar) – DNA-aligned AI Avatar architecture  
+- [mindalignvr](https://github.com/cynkronai/mindalignvr) – Mixed Reality therapy system  
+- [smartmri-protocol](https://github.com/cynkronai/smartmri-protocol) – XR neuromodulation framework  
+- [throniq-engine](https://github.com/cynkronai/throniq-engine) – Archetype Gate and Codex logic  
+- [cynkronai](https://github.com/cynkronai/cynkronai) – Main profile and manifesto hub  
+ 
 
 ---
 
