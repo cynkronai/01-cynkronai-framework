@@ -22,12 +22,12 @@ We design architectures that align intelligence with **sovereignty, ethics, and 
 ---
 
 ## 🗝️ Key Repositories
-- [cynkronai-learn](https://github.com/cynkronai/cynkronai-learn) – Core learning modules for SAI fundamentals  
-- [siddhiq-avatar](https://github.com/cynkronai/siddhiq-avatar) – DNA-aligned AI Avatar architecture  
-- [mindalignvr](https://github.com/cynkronai/mindalignvr) – Mixed Reality therapy system  
-- [smartmri-protocol](https://github.com/cynkronai/smartmri-protocol) – XR neuromodulation framework  
-- [throniq-engine](https://github.com/cynkronai/throniq-engine) – Archetype Gate and Codex logic  
-- [cynkronai](https://github.com/cynkronai/cynkronai) – Main profile and manifesto hub  
+- [01-cynkronai-framework](https://github.com/cynkronai/01-cynkronai-framework) – Master docs and manifesto hub  
+- [02-cynkronai-learn](https://github.com/cynkronai/02-cynkronai-learn) – Core learning modules for SAI fundamentals  
+- [03-smartmri-neuromodulation](https://github.com/cynkronai/03-smartmri-neuromodulation) – XR neuromodulation framework  
+- [04-mindalignvr-immersion](https://github.com/cynkronai/04-mindalignvr-immersion) – Mixed Reality therapy system  
+- [05-throniq-cognition-engine](https://github.com/cynkronai/05-throniq-cognition-engine) – Archetypal cognition and Codex logic  
+- [06-siddhiq-codex-avatar](https://github.com/cynkronai/06-siddhiq-codex-avatar) – DNA-aligned AI Avatar architecture
  
 
 ---
