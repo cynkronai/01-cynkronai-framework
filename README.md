@@ -12,12 +12,18 @@ We design architectures that align intelligence with **sovereignty, ethics, and 
 ---
 
 ### 🚀 Focus Areas  
-🧠 **NeuroTech** – SmartMRI™ and MindAlignVR for neuroadaptive recalibration  
-👤 **Immersive AI** – SiddhiQ Avatar™ and Codex Compass for decision guidance  
-⚖️ **Ethical Frameworks** – SAI Neuro-Ethics Charter for responsible AI development  
-🔗 **Web3 Integration** – Soulbound NFTs and Avatar Launchpad for identity and access  
-🌀 **Decision Systems** – THRONiQ Engine and VECTRIX Simulation for cognitive modeling  
 
+⚖️ **Ethical Frameworks** – [SAI Ethics Charter](./docs/sai-ethics-charter.md) defining the principles of Sovereign Aligned Intelligence (SAI) and responsible neuro-adaptive AI development  
+
+📘 **EdTech & Learning** – [02-cynkronai-learn](https://github.com/cynkronai/02-cynkronai-learn) delivering foundational SAI modules, tutorials, and developer education  
+
+🧠 **NeuroTech** – [03-smartmri-neuromodulation](https://github.com/cynkronai/03-smartmri-neuromodulation) advancing XR-assisted neuromodulation and recalibration research  
+
+🌌 **XR Immersion** – [04-mindalignvr-immersion](https://github.com/cynkronai/04-mindalignvr-immersion) creating therapeutic Mixed Reality coherence and mindfulness experiences  
+
+🌀 **Decision Systems** – [05-throniq-cognition-engine](https://github.com/cynkronai/05-throniq-cognition-engine) modeling archetypal cognition and adaptive decision architectures  
+
+👤 **Immersive AI Avatars** – [06-siddhiq-codex-avatar](https://github.com/cynkronai/06-siddhiq-codex-avatar) developing DNA-aligned AI Avatars and Codex-based intelligence interfaces  
 ---
 
 ### 🗝️ Key Repositories  
