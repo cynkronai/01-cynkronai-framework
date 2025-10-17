@@ -1,4 +1,4 @@
-# CYNKRONAI Technology Systems™  
+# CYNKRONAI Neurotech Systems™  
 **Sovereign Aligned Intelligence (SAI)**  
 AI Avatars • XR NeuroTech • Web3 Innovation  
 **“Remember the Future.”**
