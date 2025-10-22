@@ -13,7 +13,8 @@ We design architectures that align intelligence with **sovereignty, ethics, and 
 
 ### 🚀 Focus Areas  
 
-⚖️ **Ethical Frameworks** – [SAI Ethics Charter](./docs/sai-ethics-charter.md) defining the principles of Sovereign Aligned Intelligence (SAI) and responsible neuro-adaptive AI development  
+⚖️ **Ethical Frameworks** – [SAI Ethics Charter](./docs/SAI_Ethics_and_Science/SAI_Ethics_Charter.md)  
+Defining the principles of **Sovereign Aligned Intelligence (SAI)** and responsible **neuro-adaptive AI development** within the CYNKRONAI ecosystem.
 
 📘 **EdTech & Learning** – [02-cynkronai-learn](https://github.com/cynkronai/02-cynkronai-learn) delivering foundational SAI modules, tutorials, and developer education  
 
