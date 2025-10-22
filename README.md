@@ -44,11 +44,11 @@ We design architectures that align intelligence with **sovereignty, ethics, and 
 
 ---
 
-CYNKRONAI Technology Systems™ is dedicated to developing **Sovereign Aligned Intelligence (SAI)** — intelligent systems that empower human sovereignty, uphold neuroethical design, and amplify human potential.
+CYNKRONAI Neurotech Systems™ is dedicated to developing **Sovereign Aligned Intelligence (SAI)** — intelligent systems that empower human sovereignty, uphold neuroethical design, and amplify human potential.
 
 
 <!--
-**cynkronai/cynkronai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cynkronai/cynkronai-framework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
